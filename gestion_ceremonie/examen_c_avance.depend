@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1648484480 source:c:\users\dymama\desktop\trucs importants\langage c\examen_c_avance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+	"header.h"
+	"invite.h"
+	"gestionnaire.h"
+
+1648484073 c:\users\dymama\desktop\trucs importants\langage c\examen_c_avance\header.h
+
+1648147177 source:c:\users\dymama\desktop\trucs importants\langage c\examen_c_avance\controllers.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+	"header.h"
+	"invite.h"
+	"gestionnaire.h"
+
+1648195970 source:c:\users\dymama\desktop\trucs importants\langage c\examen_c_avance\gestionnaire.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+	"header.h"
+	"invite.h"
+	"gestionnaire.h"
+
+1648479288 source:c:\users\dymama\desktop\trucs importants\langage c\examen_c_avance\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+	"header.h"
+	"invite.h"
+	"gestionnaire.h"
+
+1648480440 source:c:\users\dymama\desktop\trucs importants\langage c\examen_c_avance\inviter.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+	"header.h"
+	"invite.h"
+	"gestionnaire.h"
+
+1648190554 c:\users\dymama\desktop\trucs importants\langage c\examen_c_avance\invite.h
+
+1648485895 c:\users\dymama\desktop\trucs importants\langage c\examen_c_avance\gestionnaire.h
+
